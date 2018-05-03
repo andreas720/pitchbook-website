@@ -1,0 +1,35 @@
+.btn-primary {
+    color: #fff;
+    background-color: #A5A5AF; /*#015249;*/
+    border-color: #015249;
+	position:absolute;
+    transition: .5s ease;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+
+.fa-instagram { color: #A5A5AF;}
+.fa-instagram:hover { color: black;}
+.fa-facebook {color: #A5A5AF;}
+.fa-facebook:hover { color: #3b5998	;}
+.fa-twitter {color: #A5A5AF;}
+.fa-twitter:hover {color: #0084b4;}
+.fa-dribbble {color: #A5A5AF;}
+.fa-dribbble:hover {color: #C73B6F	;}
+.fa-linkedin {color: #A5A5AF;}
+.fa-linkedin:hover {color: #0077B5;}
+
+
+h1.mb-5 {
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+}
+
+.text-primary {
+    color: #57BC90 !important;
+}

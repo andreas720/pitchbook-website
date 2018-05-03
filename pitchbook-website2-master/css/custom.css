@@ -1,0 +1,25 @@
+.btn-primary {
+    color: #fff;
+    background-color: #A5A5AF; /*#015249;*/
+    border-color: #015249;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.fa-instagram {
+    color: #A5A5AF;
+
+}
+
+h1.mb-5 {
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+}
+
+.text-primary {
+    color: #57BC90 !important;
+}
